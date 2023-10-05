@@ -1,0 +1,9 @@
+# ---上传设置---
+# 上传间隔
+interval=10
+# 随机上传文件夹 不要有空格
+video_directory=C:\Users\Administrator\Desktop\Video
+
+# ---视频配置---
+# 视频名称
+video_name=Test
